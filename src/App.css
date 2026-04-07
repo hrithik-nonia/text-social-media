@@ -1,0 +1,10 @@
+.parrentContainer {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.parentOfMain {
+  height: 100%;
+  overflow-y: auto;
+}

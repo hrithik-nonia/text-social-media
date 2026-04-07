@@ -1,0 +1,17 @@
+.sideBar {
+  height: 100%;
+  overflow-y: hidden;
+  background-color: rgb(0, 0, 0);
+}
+.homeBtn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+  color: white;
+}
+.homeBtn span {
+  font-size: 20px;
+  font-weight: 500;
+  text-decoration: none;
+}

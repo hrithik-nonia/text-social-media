@@ -1,0 +1,14 @@
+.headerComp {
+  background-color: rgb(0, 0, 0);
+}
+.logoText {
+  color: white;
+  font-weight: 700;
+}
+.headLinks a {
+  color: white;
+  font-weight: 400;
+}
+.logo {
+  width: 30px;
+}
