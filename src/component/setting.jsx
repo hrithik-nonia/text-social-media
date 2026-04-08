@@ -1,4 +1,5 @@
 import "../customCss/setting.css";
+import ThemeToggle from "./themeToggel";
 const Setting = ({ onClose }) => {
   return (
     <>
@@ -15,7 +16,10 @@ const Setting = ({ onClose }) => {
         <div className="sett-body">
           <p>🔔 Notifications</p>
           <p>🔒 Privacy</p>
-          <p>🎨 Theme</p>
+          <p>
+            <ThemeToggle></ThemeToggle>
+          </p>
+
           <p>🚪 Logout</p>
         </div>
       </div>

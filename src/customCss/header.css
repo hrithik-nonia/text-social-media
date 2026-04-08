@@ -1,12 +1,12 @@
 .headerComp {
-  background-color: rgb(0, 0, 0);
+  background-color: var(--bg-secondary);
 }
 .logoText {
-  color: white;
+  color: var(--text-primary);
   font-weight: 700;
 }
 .headLinks a {
-  color: white;
+  color: var(--text-primary);
   font-weight: 400;
 }
 .logo {

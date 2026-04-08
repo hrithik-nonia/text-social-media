@@ -20,9 +20,9 @@ const Mdo = () => {
             height="32"
             className="rounded-circle me-2"
           />
-          <strong>mdo</strong>
+          <strong className="mdoHeading">mdo</strong>
         </a>
-        <ul className="dropdown-menu dropdown-menu-dark text-small shadow">
+        <ul className="dropdown-menu dropdown-menu-dark text-small shadow dropDown">
           <li>
             <a
               className="dropdown-item"
