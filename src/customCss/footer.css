@@ -1,3 +1,6 @@
 .footerContainer {
   background-color: var(--bg-secondary);
 }
+.footerTxt {
+  color: var(--text-primary);
+}

@@ -9,20 +9,20 @@ const Mdo = () => {
       <div className="dropdown">
         <a
           href="#"
-          className="d-flex align-items-center text-white text-decoration-none dropdown-toggle mb-3 ms-4"
+          className="d-flex align-items-center text-white text-decoration-none dropdown-toggle mb-3 ms-4 "
           data-bs-toggle="dropdown"
           aria-expanded="false"
         >
           <img
-            src="https://github.com/mdo.png"
+            src="profile.jpg"
             alt=""
             width="32"
             height="32"
-            className="rounded-circle me-2"
+            className="rounded-circle me-2 profileImg"
           />
           <strong className="mdoHeading">mdo</strong>
         </a>
-        <ul className="dropdown-menu dropdown-menu-dark text-small shadow dropDown">
+        <ul className="dropdown-menu dropdown-menu-dark text-small shadow dropDown ">
           <li>
             <a
               className="dropdown-item"

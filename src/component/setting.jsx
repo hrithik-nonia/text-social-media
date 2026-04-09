@@ -16,9 +16,8 @@ const Setting = ({ onClose }) => {
         <div className="sett-body">
           <p>🔔 Notifications</p>
           <p>🔒 Privacy</p>
-          <p>
-            <ThemeToggle></ThemeToggle>
-          </p>
+
+          <ThemeToggle></ThemeToggle>
 
           <p>🚪 Logout</p>
         </div>
