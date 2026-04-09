@@ -15,7 +15,7 @@ const SideBar = () => {
   };
   return (
     <>
-      <div className="col-2  sideBar p-0 d-flex flex-column">
+      <div className="col-2  sideBar p-0 d-flex flex-column d-none d-lg-flex">
         <hr className="hrLines" />
         <div className="container px-4">
           <a href="#" className="homeBtn mt-2 ">

@@ -8,7 +8,8 @@ const Fratures = ({ onClose }) => {
             ✕
           </button>
           <h4 className="fw-bold mb-3">Features</h4>
-          <div className="container px-4 py-5" id="hanging-icons">
+          <p>add features</p>
+          {/* <div className="container px-4 py-5" id="hanging-icons">
             <h2 className="pb-2 border-bottom">Hanging icons</h2>
             <div className="row g-4 py-5 row-cols-1 row-cols-lg-3">
               <div className="col d-flex align-items-start">
@@ -81,7 +82,7 @@ const Fratures = ({ onClose }) => {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </>

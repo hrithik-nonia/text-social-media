@@ -21,7 +21,7 @@ const Cart = () => {
       )}
 
       {filteredPosts.map((postDataObj, index) => (
-        <div className="col-4 my-2" key={index}>
+        <div className="col-12 col-md-6 col-lg-4 my-2" key={index}>
           <div className="container">
             <div className="card cardContainer">
               <div className="card-body">
